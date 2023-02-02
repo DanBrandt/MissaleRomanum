@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{e195c2dcb5111773eb92e93c5c52c86d2058f58e}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{7ea9ffb3876da0412bcd992db71a38b3c2a8d4c5}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -1733,7 +1733,7 @@
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{tr}{o}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{t}{ro\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\maltese}{}{\maltese}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{tr}{o}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{t}{ro\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
@@ -1741,10 +1741,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{\maltese}{}{\maltese}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}\GreLastOfLine}{}{{18}{0}}{}{%
-\GreSyllableNoteCount{0}%
-\GreLastOfScore\GreDivisioFinalis{1}{}%
+\GreFinalDivisioFinalis{%
 }%
-%
 \GreEndScore %
 \endinput %
