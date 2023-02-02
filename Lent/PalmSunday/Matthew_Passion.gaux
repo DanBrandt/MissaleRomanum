@@ -2,11 +2,14 @@ return {
  ["line_heights"]={
  },
  ["last_syllables"]={
-  ["676e0220f876c1c55ecd8a0095f11886bfd2939b.1"]={
-   [59]=59,
-   [129]=129,
-   [94]=94,
-   [31]=31,
+  ["e195c2dcb5111773eb92e93c5c52c86d2058f58e.1"]={
+   [32]=32,
+   [132]=132,
+   [164]=164,
+   [100]=100,
+   [197]=197,
+   [64]=64,
+   [231]=231,
   },
  },
  ["saved_lengths"]={
@@ -14,6 +17,6 @@ return {
  ["saved_newline_before_euouae"]={
  },
  ["state_hashes"]={
-  ["676e0220f876c1c55ecd8a0095f11886bfd2939b.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["e195c2dcb5111773eb92e93c5c52c86d2058f58e.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
  },
 }

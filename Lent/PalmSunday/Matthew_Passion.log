@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  1 FEB 2023 07:21
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  1 FEB 2023 23:18
  system commands enabled.
 **Matthew_Passion.tex
 (./Matthew_Passion.tex
@@ -1196,22 +1196,12 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 12.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 (Font)              scaled to size 4.80003pt on input line 12.
-
-
-LaTeX Warning: Reference `mdf@pagelabel-1' on page 1 undefined on input line 13.
-
-
 Module gregoriotex Info: Looking in  on input line 16
 Module gregoriotex Info: Found matthew_passion_1.gabc directly on input line 16
 Module gregoriotex Info: Looking in  on input line 16
 Module gregoriotex Info: Found matthew_passion_1-6_0_0.gtex directly on input li
 ne 16
-Module gregoriotex Info: matthew_passion_1.gabc has been modified and matthew_pa
-ssion_1-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
- 16
-Module gregoriotex Info: compiling the score matthew_passion_1.gabc... on input 
-line 16
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 16
+
 (./matthew_passion_1-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1231,34 +1221,25 @@ Missing character: There is no œ (U+0153) in font mdbchr8t!
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 )
 
 Here is how much of LuaTeX's memory you used:
  28820 strings out of 481365
- 100000,794899 words of node,token memory allocated
+ 195335,794899 words of node,token memory allocated
  1462 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 34 attribute, 240 glue_spe
 c, 7 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:16584,3:1260,4:19,5:1967,6:137,7:2610,8:2,9:2511,10:14,11:
+   avail lists: 1:4,2:29898,3:2265,4:26,5:3503,6:233,7:4234,8:2,9:4476,10:19,11:
 2
  45343 multiletter control sequences out of 65536+600000
  98 fonts using 10613931 bytes
- 51i,11n,60p,842b,2775s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing Matthew_Passion.gaux on input line 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
+ 51i,11n,60p,842b,4939s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/sh
 are/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texm
 f-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/mathdesign/mdbch/md-chrma.pfb>
-Output written on Matthew_Passion.pdf (1 page, 33061 bytes).
+Output written on Matthew_Passion.pdf (1 page, 34587 bytes).
 
 PDF statistics: 28 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
