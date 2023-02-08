@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  7 FEB 2023 19:34
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 FEB 2023 08:36
  system commands enabled.
 **Matthew_Passion.tex
 (./Matthew_Passion.tex
@@ -1201,12 +1201,6 @@ Module gregoriotex Info: Found matthew_passion_1.gabc directly on input line 18
 Module gregoriotex Info: Looking in  on input line 18
 Module gregoriotex Info: Found matthew_passion_1-6_0_0.gtex directly on input li
 ne 18
-Module gregoriotex Info: matthew_passion_1.gabc has been modified and matthew_pa
-ssion_1-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
- 18
-Module gregoriotex Info: compiling the score matthew_passion_1.gabc... on input 
-line 18
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 18
 
 (./matthew_passion_1-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1256,34 +1250,47 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Looking in  on input line 38
 Module gregoriotex Info: Found matthew_passion_5.gabc directly on input line 38
 Module gregoriotex Info: Looking in  on input line 38
-Module gregoriotex Info: Cannot find matthew_passion_5-6_0_0.gtex on input line 
-38
-Module gregoriotex Info: The file matthew_passion_5-6_0_0.gtex does not exist. W
-ill use gabc file on input line 38
-Module gregoriotex Info: compiling the score matthew_passion_5.gabc... on input 
-line 38
+Module gregoriotex Info: Found matthew_passion_5-6_0_0.gtex directly on input li
+ne 38
  (./matthew_passion_5-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+[4]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-[4] [5] (./Matthew_Passion.aux)
+Module gregoriotex Info: Looking in  on input line 43
+Module gregoriotex Info: Found matthew_passion_6.gabc directly on input line 43
+Module gregoriotex Info: Looking in  on input line 43
+Module gregoriotex Info: Found matthew_passion_6-6_0_0.gtex directly on input li
+ne 43
+Module gregoriotex Info: matthew_passion_6.gabc has been modified and matthew_pa
+ssion_6-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
+ 43
+Module gregoriotex Info: compiling the score matthew_passion_6.gabc... on input 
+line 43
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 43
+ (./matthew_passion_6-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [5]
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [6] (./Matthew_P
+assion.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 28846 strings out of 481365
- 476922,794899 words of node,token memory allocated
+ 28855 strings out of 481365
+ 476969,794899 words of node,token memory allocated
  1462 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 34 attribute, 240 glue_spe
 c, 7 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:4,2:90833,3:7213,4:115,5:11043,6:737,7:10888,8:2,9:13404,10:10
+   avail lists: 1:5,2:93767,3:7453,4:115,5:11458,6:759,7:10964,8:3,9:13788,10:10
 4,11:2
  45343 multiletter control sequences out of 65536+600000
  98 fonts using 10613931 bytes
- 51i,11n,60p,842b,8358s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,11n,60p,842b,8618s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing Matthew_Passion.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1292,10 +1299,10 @@ are/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texm
 f-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/mathdesign/mdbch/md-chrma.pfb>
-Output written on Matthew_Passion.pdf (5 pages, 57801 bytes).
+Output written on Matthew_Passion.pdf (6 pages, 71215 bytes).
 
-PDF statistics: 40 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
