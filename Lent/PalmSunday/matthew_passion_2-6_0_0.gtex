@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{065228e895a9b6c4fa00f97a654c30345c45d6c9}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{1660926e1a551dcfdd69d7cc5fcb33747096409c}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -554,7 +554,7 @@
 }%
 %
 \GreSyllable{\GreSetThisSyllable{P}{a}{}{P}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{e}{r}{t}{er}}{}{{8}{0}}{}{%
-\GreSyllableNoteCount{4}%
+\GreSyllableNoteCount{5}%
 \GreGlyph{\GreCPPorrectusLongqueueOneOneNothing}{10}{\GreNextCustos{11}{Flat}}{2}%
 {%
 \GreGlyphHeights{10}{9}%
@@ -564,9 +564,9 @@
 {%
 \GreGlyphHeights{11}{11}%
 }{}{}%
-\GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{9}{}}{0}%
+\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{9}{}}{8}%
 {%
-\GreGlyphHeights{11}{11}%
+\GreGlyphHeights{11}{10}%
 }{}{}%
 }%
 \GreSyllable{\GreSetThisSyllable{t}{e}{r}{t}{er}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{i}{\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{m}{i\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
@@ -2007,28 +2007,6 @@
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
-}{}{}%
-}%
-%
-\GreSyllable{\GreSetThisSyllable{gl}{á}{}{g}{lá}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{i}{}{d}{i}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{12}{12}%
-}{}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{d}{i}{}{d}{i}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{i}{s}{i}{s}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{11}{}}{0}%
-{%
-\GreGlyphHeights{12}{12}%
-}{}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{}{i}{s}{i}{s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{gl}{á}{}{g}{lá}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{11}{11}%
 }{}{}%
 }%
 %
