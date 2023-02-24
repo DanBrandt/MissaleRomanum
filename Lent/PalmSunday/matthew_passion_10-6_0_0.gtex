@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{d70c798c01dfb94e10719e742e3f34fb42b0ffdb}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{3b08476dcbfe83361f3187a1ed7244f505583416}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -522,7 +522,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{b}{a}{nt\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{b}{ant\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{S.}{}{S}{.}}{}{{17}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{b}{a}{nt\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{b}{ant\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{T.}{}{T}{.}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -530,7 +530,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{S.}{}{S}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{}{E}{}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{T.}{}{T}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{}{E}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{1}{}%
 }%
@@ -967,7 +967,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{b}{a}{nt\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{b}{ant\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{S.}{}{S}{.}}{}{{17}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{b}{a}{nt\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{b}{ant\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{T.}{}{T}{.}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{12}{}}{0}%
 {%
@@ -975,7 +975,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{S.}{}{S}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{S}{i}{}{S}{i}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{T.}{}{T}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{S}{i}{}{S}{i}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{1}{}%
 }%
@@ -1518,7 +1518,7 @@
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{e}{t}{e}{t}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{e}{t}{p}{et}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{e}{t}{e}{t}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{e}{}{p}{e}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
@@ -1526,7 +1526,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{p}{e}{t}{p}{et}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{tr\GreSpecial{ae}}{}{t}{r\GreSpecial{ae}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{p}{e}{}{p}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{tr\GreSpecial{ae}}{}{t}{r\GreSpecial{ae}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
@@ -2369,7 +2369,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{t}{e}{s\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{t}{es\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{S.}{}{S}{.}}{}{{17}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{t}{e}{s\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{t}{es\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{T.}{}{T}{.}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{12}{}}{0}%
 {%
@@ -2377,7 +2377,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{S.}{}{S}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{V}{e}{}{V}{e}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{T.}{}{T}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{V}{e}{}{V}{e}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{1}{}%
 }%

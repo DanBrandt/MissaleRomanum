@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{52f0afb22ccafb1f98d11bddc0154aeaa2b31069}{12}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{4e980c70188a4c1d6d18202aa3203594f19192d6}{12}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -458,7 +458,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{x}{i}{t\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{x}{it\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{S.}{}{S}{.}}{}{{17}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{x}{i}{t\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{x}{it\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{T.}{}{T}{.}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -466,7 +466,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{S.}{}{S}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{S}{a}{n}{S}{an}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{T.}{}{T}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{S}{a}{n}{S}{an}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{1}{}%
 }%
@@ -1619,7 +1619,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{t}{e}{s\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{t}{es\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{S.}{}{S}{.}}{}{{17}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{t}{e}{s\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{t}{es\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{T.}{}{T}{.}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -1627,7 +1627,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{S.}{}{S}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{A}{}{A}{}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{T.}{}{T}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{A}{}{A}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{1}{}%
 }%
@@ -2744,16 +2744,16 @@
 %
 \GreSyllable{\GreSetThisSyllable{v}{i}{}{v}{i}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{u}{m}{n}{um}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{12}{}}{0}%
+\GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{11}{11}%
 }{}{}%
 }%
 \GreSyllable{\GreSetThisSyllable{n}{u}{m}{n}{um}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{b}{í}{}{b}{í}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
+\GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{12}{12}%
+\GreGlyphHeights{10}{10}%
 }{}{}%
 }%
 %
