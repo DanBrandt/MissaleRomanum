@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  11 MAR 2023 17:58
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  20 MAR 2023 17:29
  system commands enabled.
 **Matthew_Passion.tex
 (./Matthew_Passion.tex
@@ -1201,6 +1201,12 @@ Module gregoriotex Info: Found matthew_passion_1.gabc directly on input line 18
 Module gregoriotex Info: Looking in  on input line 18
 Module gregoriotex Info: Found matthew_passion_1-6_0_0.gtex directly on input li
 ne 18
+Module gregoriotex Info: matthew_passion_1.gabc has been modified and matthew_pa
+ssion_1-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
+ 18
+Module gregoriotex Info: compiling the score matthew_passion_1.gabc... on input 
+line 18
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 18
 
 (./matthew_passion_1-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1231,12 +1237,6 @@ Module gregoriotex Info: Found matthew_passion_3.gabc directly on input line 28
 Module gregoriotex Info: Looking in  on input line 28
 Module gregoriotex Info: Found matthew_passion_3-6_0_0.gtex directly on input li
 ne 28
-Module gregoriotex Info: matthew_passion_3.gabc has been modified and matthew_pa
-ssion_3-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
- 28
-Module gregoriotex Info: compiling the score matthew_passion_3.gabc... on input 
-line 28
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 28
  (./matthew_passion_3-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1263,11 +1263,6 @@ Module gregoriotex Info: Found matthew_passion_5.gabc directly on input line 38
 Module gregoriotex Info: Looking in  on input line 38
 Module gregoriotex Info: Found matthew_passion_5-6_0_0.gtex directly on input li
 ne 38
-Module gregoriotex Info: matthew_passion_5.gabc has been modified and matthew_pa
-ssion_5-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
- 38
-Module gregoriotex Info: compiling the score matthew_passion_5.gabc... on input 
-line 38
  (./matthew_passion_5-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1279,6 +1274,11 @@ Module gregoriotex Info: Found matthew_passion_6.gabc directly on input line 43
 Module gregoriotex Info: Looking in  on input line 43
 Module gregoriotex Info: Found matthew_passion_6-6_0_0.gtex directly on input li
 ne 43
+Module gregoriotex Info: matthew_passion_6.gabc has been modified and matthew_pa
+ssion_6-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
+ 43
+Module gregoriotex Info: compiling the score matthew_passion_6.gabc... on input 
+line 43
  (./matthew_passion_6-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [5]
@@ -1289,11 +1289,6 @@ Module gregoriotex Info: Found matthew_passion_7.gabc directly on input line 48
 Module gregoriotex Info: Looking in  on input line 48
 Module gregoriotex Info: Found matthew_passion_7-6_0_0.gtex directly on input li
 ne 48
-Module gregoriotex Info: matthew_passion_7.gabc has been modified and matthew_pa
-ssion_7-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
- 48
-Module gregoriotex Info: compiling the score matthew_passion_7.gabc... on input 
-line 48
  (./matthew_passion_7-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1305,11 +1300,6 @@ Module gregoriotex Info: Found matthew_passion_8.gabc directly on input line 53
 Module gregoriotex Info: Looking in  on input line 53
 Module gregoriotex Info: Found matthew_passion_8-6_0_0.gtex directly on input li
 ne 53
-Module gregoriotex Info: matthew_passion_8.gabc has been modified and matthew_pa
-ssion_8-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
- 53
-Module gregoriotex Info: compiling the score matthew_passion_8.gabc... on input 
-line 53
  (./matthew_passion_8-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [7]
@@ -1320,6 +1310,11 @@ Module gregoriotex Info: Found matthew_passion_9.gabc directly on input line 58
 Module gregoriotex Info: Looking in  on input line 58
 Module gregoriotex Info: Found matthew_passion_9-6_0_0.gtex directly on input li
 ne 58
+Module gregoriotex Info: matthew_passion_9.gabc has been modified and matthew_pa
+ssion_9-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line
+ 58
+Module gregoriotex Info: compiling the score matthew_passion_9.gabc... on input 
+line 58
  (./matthew_passion_9-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1332,6 +1327,11 @@ Module gregoriotex Info: Found matthew_passion_10.gabc directly on input line 63
 Module gregoriotex Info: Looking in  on input line 63
 Module gregoriotex Info: Found matthew_passion_10-6_0_0.gtex directly on input l
 ine 63
+Module gregoriotex Info: matthew_passion_10.gabc has been modified and matthew_p
+assion_10-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input li
+ne 63
+Module gregoriotex Info: compiling the score matthew_passion_10.gabc... on input
+ line 63
  (./matthew_passion_10-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [9]
@@ -1361,15 +1361,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  28890 strings out of 481365
- 476947,794899 words of node,token memory allocated
+ 476913,794899 words of node,token memory allocated
  1462 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 34 attribute, 240 glue_spe
 c, 7 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:4,2:93659,3:7438,4:142,5:11443,6:758,7:11058,8:3,9:13772,10:12
-1,11:2
+   avail lists: 1:6,2:93614,3:7438,4:152,5:11449,6:758,7:11011,8:2,9:13768,10:12
+9,11:2
  45343 multiletter control sequences out of 65536+600000
  98 fonts using 10613931 bytes
- 51i,11n,64p,842b,8512s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,11n,64p,842b,8592s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing Matthew_Passion.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1378,7 +1378,7 @@ are/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texm
 f-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/mathdesign/mdbch/md-chrma.pfb>
-Output written on Matthew_Passion.pdf (11 pages, 101227 bytes).
+Output written on Matthew_Passion.pdf (11 pages, 101257 bytes).
 
 PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
