@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  25 MAR 2023 23:25
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 MAR 2023 14:06
  system commands enabled.
 **Matthew_Passion_Victoria.tex
 (./Matthew_Passion_Victoria.tex
@@ -1321,7 +1321,7 @@ File: Victoria/Polyphony/turba4_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba4_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba4_fixed.png  used on input line
  69.
-(luatex.def)             Requested size: 469.0pt x 161.72708pt.
+(luatex.def)             Requested size: 419.16498pt x 144.53963pt.
 Module gregoriotex Info: Looking in  on input line 72
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_6b.gabc directl
 y on input line 72
@@ -1339,7 +1339,7 @@ File: Victoria/Polyphony/turba5_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba5_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba5_fixed.png  used on input line
  76.
-(luatex.def)             Requested size: 469.0pt x 128.88832pt.
+(luatex.def)             Requested size: 449.27739pt x 123.46092pt.
 Module gregoriotex Info: Looking in  on input line 79
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_6c.gabc directl
 y on input line 79
@@ -1351,20 +1351,23 @@ irectly on input line 79
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [6<./Victoria/Pol
-yphony/turba4_fixed.png><./Victoria/Polyphony/turba5_fixed.png>]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Underfull \vbox (badness 1755) has occurred while \output is active []
+
+ [6<./Victoria/Polyphony/turba4_fixed.png><./Victoria/Polyphony/turba5_fixed.png
+>]
 <Victoria/Polyphony/turba6_fixed.png, id=35, 449.88075pt x 471.56175pt>
 File: Victoria/Polyphony/turba6_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba6_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba6_fixed.png  used on input line
- 87.
+ 88.
 (luatex.def)             Requested size: 469.0pt x 491.60709pt.
-Module gregoriotex Info: Looking in  on input line 90
+Module gregoriotex Info: Looking in  on input line 91
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_7.gabc directly
- on input line 90
-Module gregoriotex Info: Looking in  on input line 90
+ on input line 91
+Module gregoriotex Info: Looking in  on input line 91
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_7-6_0_0.gtex di
-rectly on input line 90
+rectly on input line 91
 
 (./Victoria/matthew_victoria_passion_7-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1372,12 +1375,12 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [7<./Victoria/Pol
 yphony/turba6_fixed.png>]
-Module gregoriotex Info: Looking in  on input line 97
+Module gregoriotex Info: Looking in  on input line 98
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_8a.gabc directl
-y on input line 97
-Module gregoriotex Info: Looking in  on input line 97
+y on input line 98
+Module gregoriotex Info: Looking in  on input line 98
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_8a-6_0_0.gtex d
-irectly on input line 97
+irectly on input line 98
  (./Victoria/matthew_victoria_passion_8a-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1387,14 +1390,14 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 File: Victoria/Polyphony/turba7_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba7_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba7_fixed.png  used on input line
- 102.
+ 103.
 (luatex.def)             Requested size: 234.5pt x 239.10881pt.
-Module gregoriotex Info: Looking in  on input line 106
+Module gregoriotex Info: Looking in  on input line 107
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_8b.gabc directl
-y on input line 106
-Module gregoriotex Info: Looking in  on input line 106
+y on input line 107
+Module gregoriotex Info: Looking in  on input line 107
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_8b-6_0_0.gtex d
-irectly on input line 106
+irectly on input line 107
 
 (./Victoria/matthew_victoria_passion_8b-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1406,14 +1409,14 @@ yphony/turba7_fixed.png>]
 File: Victoria/Polyphony/turba8_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba8_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba8_fixed.png  used on input line
- 115.
+ 117.
 (luatex.def)             Requested size: 469.0pt x 205.07257pt.
-Module gregoriotex Info: Looking in  on input line 119
+Module gregoriotex Info: Looking in  on input line 121
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_9.gabc directly
- on input line 119
-Module gregoriotex Info: Looking in  on input line 119
+ on input line 121
+Module gregoriotex Info: Looking in  on input line 121
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_9-6_0_0.gtex di
-rectly on input line 119
+rectly on input line 121
  (./Victoria/matthew_victoria_passion_9-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1424,14 +1427,14 @@ yphony/turba8_fixed.png>]
 File: Victoria/IHS-with-birds-and-flowers.png Graphic file (type png)
 <use Victoria/IHS-with-birds-and-flowers.png>
 Package luatex.def Info: Victoria/IHS-with-birds-and-flowers.png  used on input 
-line 126.
-(luatex.def)             Requested size: 469.0pt x 151.008pt.
-Module gregoriotex Info: Looking in  on input line 130
+line 129.
+(luatex.def)             Requested size: 375.20143pt x 120.80736pt.
+Module gregoriotex Info: Looking in  on input line 133
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_10.gabc directl
-y on input line 130
-Module gregoriotex Info: Looking in  on input line 130
+y on input line 133
+Module gregoriotex Info: Looking in  on input line 133
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_10-6_0_0.gtex d
-irectly on input line 130
+irectly on input line 133
 
 (./Victoria/matthew_victoria_passion_10-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1439,12 +1442,12 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [10<./Victoria/IH
 S-with-birds-and-flowers.png>]
-Module gregoriotex Info: Looking in  on input line 137
+Module gregoriotex Info: Looking in  on input line 141
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_11a.gabc direct
-ly on input line 137
-Module gregoriotex Info: Looking in  on input line 137
+ly on input line 141
+Module gregoriotex Info: Looking in  on input line 141
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_11a-6_0_0.gtex 
-directly on input line 137
+directly on input line 141
  (./Victoria/matthew_victoria_passion_11a-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1454,14 +1457,14 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 File: Victoria/Polyphony/turba9_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba9_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba9_fixed.png  used on input line
- 142.
+ 146.
 (luatex.def)             Requested size: 140.70143pt x 237.61612pt.
-Module gregoriotex Info: Looking in  on input line 146
+Module gregoriotex Info: Looking in  on input line 150
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_11b.gabc direct
-ly on input line 146
-Module gregoriotex Info: Looking in  on input line 146
+ly on input line 150
+Module gregoriotex Info: Looking in  on input line 150
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_11b-6_0_0.gtex 
-directly on input line 146
+directly on input line 150
 
 (./Victoria/matthew_victoria_passion_11b-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1472,16 +1475,16 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 File: Victoria/Polyphony/turba10_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba10_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba10_fixed.png  used on input lin
-e 151.
+e 155.
 (luatex.def)             Requested size: 211.04857pt x 211.0553pt.
  [11<./Victoria/Polyphony/turba9_fixed.png><./Victoria/Polyphony/turba10_fixed.p
 ng>]
-Module gregoriotex Info: Looking in  on input line 159
+Module gregoriotex Info: Looking in  on input line 163
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_12a.gabc direct
-ly on input line 159
-Module gregoriotex Info: Looking in  on input line 159
+ly on input line 163
+Module gregoriotex Info: Looking in  on input line 163
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_12a-6_0_0.gtex 
-directly on input line 159
+directly on input line 163
 
 (./Victoria/matthew_victoria_passion_12a-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1492,14 +1495,14 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 File: Victoria/Polyphony/turba11_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba11_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba11_fixed.png  used on input lin
-e 164.
+e 168.
 (luatex.def)             Requested size: 187.59714pt x 187.60349pt.
-Module gregoriotex Info: Looking in  on input line 168
+Module gregoriotex Info: Looking in  on input line 172
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_12b.gabc direct
-ly on input line 168
-Module gregoriotex Info: Looking in  on input line 168
+ly on input line 172
+Module gregoriotex Info: Looking in  on input line 172
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_12b-6_0_0.gtex 
-directly on input line 168
+directly on input line 172
 
 (./Victoria/matthew_victoria_passion_12b-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1510,16 +1513,16 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 File: Victoria/Polyphony/turba12_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba12_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba12_fixed.png  used on input lin
-e 173.
+e 177.
 (luatex.def)             Requested size: 351.75pt x 194.61565pt.
  [12<./Victoria/Polyphony/turba11_fixed.png><./Victoria/Polyphony/turba12_fixed.
 png>]
-Module gregoriotex Info: Looking in  on input line 182
+Module gregoriotex Info: Looking in  on input line 186
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_13a.gabc direct
-ly on input line 182
-Module gregoriotex Info: Looking in  on input line 182
+ly on input line 186
+Module gregoriotex Info: Looking in  on input line 186
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_13a-6_0_0.gtex 
-directly on input line 182
+directly on input line 186
 
 (./Victoria/matthew_victoria_passion_13a-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1530,14 +1533,14 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 File: Victoria/Polyphony/turba13_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba13_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba13_fixed.png  used on input lin
-e 187.
+e 191.
 (luatex.def)             Requested size: 375.20143pt x 247.77702pt.
-Module gregoriotex Info: Looking in  on input line 191
+Module gregoriotex Info: Looking in  on input line 195
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_13b.gabc direct
-ly on input line 191
-Module gregoriotex Info: Looking in  on input line 191
+ly on input line 195
+Module gregoriotex Info: Looking in  on input line 195
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_13b-6_0_0.gtex 
-directly on input line 191
+directly on input line 195
 
 (./Victoria/matthew_victoria_passion_13b-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1545,12 +1548,12 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [13<./Victoria/Po
 lyphony/turba13_fixed.png>]
-Module gregoriotex Info: Looking in  on input line 198
+Module gregoriotex Info: Looking in  on input line 202
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_14.gabc directl
-y on input line 198
-Module gregoriotex Info: Looking in  on input line 198
+y on input line 202
+Module gregoriotex Info: Looking in  on input line 202
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_14-6_0_0.gtex d
-irectly on input line 198
+irectly on input line 202
  (./Victoria/matthew_victoria_passion_14-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1563,14 +1566,14 @@ Underfull \vbox (badness 7704) has occurred while \output is active []
 File: Victoria/Polyphony/turba14_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba14_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba14_fixed.png  used on input lin
-e 206.
+e 211.
 (luatex.def)             Requested size: 469.0pt x 549.68904pt.
-Module gregoriotex Info: Looking in  on input line 209
+Module gregoriotex Info: Looking in  on input line 215
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_15.gabc directl
-y on input line 209
-Module gregoriotex Info: Looking in  on input line 209
+y on input line 215
+Module gregoriotex Info: Looking in  on input line 215
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_15-6_0_0.gtex d
-irectly on input line 209
+irectly on input line 215
 
 (./Victoria/matthew_victoria_passion_15-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1582,22 +1585,22 @@ lyphony/turba14_fixed.png>]
 File: Victoria/Polyphony/turba15a_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba15a_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba15a_fixed.png  used on input li
-ne 218.
+ne 224.
 (luatex.def)             Requested size: 398.65286pt x 315.53134pt.
 <Victoria/Polyphony/turba15b_fixed.png, id=83, 582.978pt x 420.3705pt>
 File: Victoria/Polyphony/turba15b_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba15b_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba15b_fixed.png  used on input li
-ne 222.
+ne 228.
 (luatex.def)             Requested size: 398.65286pt x 287.45816pt.
  [16<./Victoria/Polyphony/turba15a_fixed.PNG><./Victoria/Polyphony/turba15b_fixe
 d.png>]
-Module gregoriotex Info: Looking in  on input line 230
+Module gregoriotex Info: Looking in  on input line 236
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_16a.gabc direct
-ly on input line 230
-Module gregoriotex Info: Looking in  on input line 230
+ly on input line 236
+Module gregoriotex Info: Looking in  on input line 236
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_16a-6_0_0.gtex 
-directly on input line 230
+directly on input line 236
  (./Victoria/matthew_victoria_passion_16a-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1607,14 +1610,14 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 File: Victoria/Polyphony/turba16_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba16_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba16_fixed.png  used on input lin
-e 235.
+e 241.
 (luatex.def)             Requested size: 328.29857pt x 239.06639pt.
-Module gregoriotex Info: Looking in  on input line 239
+Module gregoriotex Info: Looking in  on input line 245
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_16b.gabc direct
-ly on input line 239
-Module gregoriotex Info: Looking in  on input line 239
+ly on input line 245
+Module gregoriotex Info: Looking in  on input line 245
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_16b-6_0_0.gtex 
-directly on input line 239
+directly on input line 245
 
 (./Victoria/matthew_victoria_passion_16b-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1626,14 +1629,14 @@ lyphony/turba16_fixed.png>]
 File: Victoria/Polyphony/turba17_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba17_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba17_fixed.png  used on input lin
-e 247.
+e 253.
 (luatex.def)             Requested size: 469.0pt x 299.53894pt.
-Module gregoriotex Info: Looking in  on input line 250
+Module gregoriotex Info: Looking in  on input line 256
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_17.gabc directl
-y on input line 250
-Module gregoriotex Info: Looking in  on input line 250
+y on input line 256
+Module gregoriotex Info: Looking in  on input line 256
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_17-6_0_0.gtex d
-irectly on input line 250
+irectly on input line 256
  (./Victoria/matthew_victoria_passion_17-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1650,14 +1653,14 @@ lyphony/turba17_fixed.png>]
 File: Victoria/Polyphony/turba18_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba18_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba18_fixed.png  used on input lin
-e 258.
+e 266.
 (luatex.def)             Requested size: 422.09714pt x 205.23196pt.
-Module gregoriotex Info: Looking in  on input line 261
+Module gregoriotex Info: Looking in  on input line 270
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_18.gabc directl
-y on input line 261
-Module gregoriotex Info: Looking in  on input line 261
+y on input line 270
+Module gregoriotex Info: Looking in  on input line 270
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_18-6_0_0.gtex d
-irectly on input line 261
+irectly on input line 270
 
 (./Victoria/matthew_victoria_passion_18-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1680,17 +1683,17 @@ Here is how much of LuaTeX's memory you used:
  1462 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 34 attribute, 240 glue_spe
 c, 7 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:4,2:90437,3:7163,4:139,5:11012,6:735,7:10545,8:2,9:13351,10:12
+   avail lists: 1:5,2:90437,3:7163,4:139,5:11013,6:735,7:10544,8:2,9:13351,10:12
 2,11:2
  45483 multiletter control sequences out of 65536+600000
  98 fonts using 10613931 bytes
- 51i,12n,64p,851b,8318s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,12n,64p,851b,8312s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/sh
 are/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texm
 f-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/mathdesign/mdbch/md-chrma.pfb>
-Output written on Matthew_Passion_Victoria.pdf (19 pages, 1034954 bytes).
+Output written on Matthew_Passion_Victoria.pdf (19 pages, 1034884 bytes).
 
 PDF statistics: 123 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

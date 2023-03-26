@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{2b593edcea764338e529b53fbef7daefae212009}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{316c5ed67547bf317b9bc199c89b46e013baf827}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -1174,7 +1174,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{c}{e}{ns\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{c}{ens\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{S.}{}{S}{.}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{c}{e}{ns\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{c}{ens\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{12}{}}{0}%
 {%
@@ -1182,12 +1182,24 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{S.}{}{S}{.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Bl}{a}{}{B}{la}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{18}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{1}{}%
+\GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Bl}{a}{}{B}{la}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{sph}{e}{}{s}{phe}}{}{{0}{0}}{}{%
+\GreNoNoteSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{18}{0}}{}{%
+\GreSyllableNoteCount{0}%
+}%
+%
+\GreNoNoteSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{18}{0}}{}{%
+\GreSyllableNoteCount{0}%
+}%
+%
+\GreNoNoteSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreColored{S.} Bl}{a}{}{\GreColored{S}}{\GreColored{.} Bla}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{0}%
+}%
+%
+\GreSyllable{\GreSetThisSyllable{\GreColored{S.} Bl}{a}{}{\GreColored{S}}{\GreColored{.} Bla}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{sph}{e}{}{s}{phe}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{10}{}}{0}%
 {%
