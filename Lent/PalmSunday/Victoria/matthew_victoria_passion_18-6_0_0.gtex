@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{45b6de42a771f905550242989246005d2b3200ab}{14}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{f33edf53ed2369fc8c3422928e5e2c5b520eb240}{14}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -642,14 +642,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{qu}{i}{}{q}{ui}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{u}{m}{d}{um}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{qu}{i}{}{q}{ui}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{a}{m}{d}{am}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{d}{u}{m}{d}{um}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{o}{}{h}{o}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d}{a}{m}{d}{am}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{o}{}{h}{o}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%

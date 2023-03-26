@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{417c45d1c24627f9bc1916d7d17aa2ffbfdc8ef0}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{2b593edcea764338e529b53fbef7daefae212009}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -62,14 +62,14 @@
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{c}{e}{r}{c}{er}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{ó}{}{ó}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{c}{e}{r}{c}{er}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{ó}{}{d}{ó}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{ó}{}{ó}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{u}{m\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{t}{um\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d}{ó}{}{d}{ó}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{u}{m\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{t}{um\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
@@ -764,16 +764,16 @@
 %
 \GreSyllable{\GreSetThisSyllable{v}{o}{}{v}{o}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{b}{i}{s\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{b}{is\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{8}{}}{0}%
+\GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{6}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
 \GreSyllable{\GreSetThisSyllable{b}{i}{s\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{b}{is\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{6}{}}{0}%
+\GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{6}{}}{0}%
 {%
-\GreGlyphHeights{8}{8}%
+\GreGlyphHeights{6}{6}%
 }{}{}%
 }%
 %

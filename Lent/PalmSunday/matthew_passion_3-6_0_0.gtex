@@ -6,7 +6,7 @@
 \GreHeader{mass-part}{Gospel}%
 \GreHeader{book}{Missale Romanum, 1962\string\ntranscriber:Daniel Brandt}%
 \GreEndHeaders %
-\GreBeginScore{d749ee26dbcd86544289fdeaa9ca4c3b96b867f1}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{25ccd50e58dace093416b826d025a7353a846e73}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -1791,14 +1791,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{í}{}{í}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{i}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{is\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{í}{}{í}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{st}{i}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{tis\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{s}{i}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{is\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{C.}{}{C}{.}}{}{{17}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{st}{i}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{tis\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{C.}{}{C}{.}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -2158,12 +2158,12 @@
 }{}{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{D}{u}{}{D}{u}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{d}{u}{}{d}{u}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{D}{u}{}{D}{u}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{x}{é}{}{x}{é}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d}{u}{}{d}{u}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{x}{é}{}{x}{é}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
