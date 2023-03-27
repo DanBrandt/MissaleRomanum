@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 MAR 2023 14:06
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 MAR 2023 22:24
  system commands enabled.
 **Matthew_Passion_Victoria.tex
 (./Matthew_Passion_Victoria.tex
@@ -1581,19 +1581,19 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [15<./Victoria/Po
 lyphony/turba14_fixed.png>]
-<Victoria/Polyphony/turba15a_fixed.png, id=82, 580.569pt x 459.51675pt>
+<Victoria/Polyphony/turba15a_fixed.png, id=82, 596.2275pt x 489.027pt>
 File: Victoria/Polyphony/turba15a_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba15a_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba15a_fixed.png  used on input li
 ne 224.
-(luatex.def)             Requested size: 398.65286pt x 315.53134pt.
+(luatex.def)             Requested size: 398.65286pt x 326.9748pt.
 <Victoria/Polyphony/turba15b_fixed.png, id=83, 582.978pt x 420.3705pt>
 File: Victoria/Polyphony/turba15b_fixed.png Graphic file (type png)
 <use Victoria/Polyphony/turba15b_fixed.png>
 Package luatex.def Info: Victoria/Polyphony/turba15b_fixed.png  used on input li
 ne 228.
 (luatex.def)             Requested size: 398.65286pt x 287.45816pt.
- [16<./Victoria/Polyphony/turba15a_fixed.PNG><./Victoria/Polyphony/turba15b_fixe
+ [16<./Victoria/Polyphony/turba15a_fixed.png><./Victoria/Polyphony/turba15b_fixe
 d.png>]
 Module gregoriotex Info: Looking in  on input line 236
 Module gregoriotex Info: Found Victoria/matthew_victoria_passion_16a.gabc direct
@@ -1693,7 +1693,7 @@ are/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texm
 f-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/mathdesign/mdbch/md-chrma.pfb>
-Output written on Matthew_Passion_Victoria.pdf (19 pages, 1034884 bytes).
+Output written on Matthew_Passion_Victoria.pdf (19 pages, 1035469 bytes).
 
 PDF statistics: 123 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
